@@ -12,7 +12,7 @@ export const CharacterProvider = ({children})=> {
         const [page, setPage] = useState(1);
         const [totalPages, setTotalPages] = useState(1);
     
-        const [search, setSearch] = useState('');   
+        const [search, setSearch] = useState('');
 
 
     
